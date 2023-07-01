@@ -2,5 +2,6 @@
   - Stephanie
   - An aspiring web developer
   - Teaching myself HTML, CSS, JS, & the MERN stack through The Odin Project
+  - Currently working through Harvard's CS50
   - A lifelong learner
   - An American living in England
