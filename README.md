@@ -1,6 +1,5 @@
 - Hello world, I’m…
   - Stephanie
   - A junior dev + freelancer
-  - Teaching myself the MERN stack through The Odin Project (currently learning React!)
-  - A lifelong learner, passionate about accessible open source education
+  - A lifelong learner
   - An American living in England
