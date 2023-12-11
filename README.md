@@ -1,5 +1,5 @@
 - Hello world, I’m…
   - Stephanie
   - A junior dev + freelancer
-  - A lifelong learner
+  - A self-taught lifelong learner
   - An American living in England
