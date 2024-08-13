@@ -1,5 +1,5 @@
 - Hello world, I’m…
   - Stephanie
-  - A junior dev @ Ultimately Better
+  - A junior dev
   - A self-taught lifelong learner
   - An American living in England
