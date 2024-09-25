@@ -3,3 +3,4 @@
   - A junior WordPress dev @ Ultimately Better
   - A self-taught lifelong learner
   - An American living in England
+  - A mom 🩵
